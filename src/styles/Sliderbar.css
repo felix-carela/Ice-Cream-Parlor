@@ -1,0 +1,16 @@
+.slider-pics{
+    justify-content: space-between;
+
+}
+
+.slider-image{
+    margin: 20px;
+    height: 120px;
+    width: 120px;
+}
+.flavors{
+    text-align: center;
+}
+.slick-slide img {
+    padding: 20px;
+}

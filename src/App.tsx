@@ -5,6 +5,7 @@ import IceCreamDisplay from './components/IceCreamDisplay';
 import Delivery from './components/Delivery';
 import Footer from './components/Footer';
 import Slider from './components/Slider';
+import Sliderbar from './components/Sliderbar';
 
 function App() {
   return (
@@ -12,8 +13,9 @@ function App() {
       <NavBar />
       <Header />
       <IceCreamDisplay />
-      <Delivery />
       <Slider />
+      <Sliderbar />
+      <Delivery />
       <Footer />
     </div>
   );
