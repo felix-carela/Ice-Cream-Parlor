@@ -1,0 +1,23 @@
+#IceCreamDisplay {
+    width: 393px;
+    height: 259px;
+    overflow: hidden;
+    position: relative;
+  }
+  
+  .ice-cream-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    position: absolute;
+    transition: transform 1s ease-in-out;
+  }
+  
+  .ice-cream-image.current {
+    transform: translateX(0);
+  }
+  
+  .ice-cream-image.next {
+    transform: translateX(100%);
+  }
+  
