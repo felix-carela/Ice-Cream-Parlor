@@ -12,8 +12,8 @@ function App() {
       <NavBar />
       <Header />
       <IceCreamDisplay />
-      <Delivery />
       <Slider />
+      <Delivery />
       <Footer />
     </div>
   );
