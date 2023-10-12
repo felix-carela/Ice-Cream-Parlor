@@ -43,19 +43,20 @@
   text-align: left; 
 }
 
-.ice-cream-image {
+.ice-cream-image1 {
   margin-top: 40px;
   margin-left:25px;
-  width: 95px;
-  height: 100px;
+  width: auto;
+  height: 90px;
   flex-shrink: 0;
-  border-radius: 30px;
+  border-radius: 15px;
   border: 1px solid #000; 
   background: lightgray 50% / cover no-repeat;
 }
 
-.delivery-container {
+.delivery-box {
   color: #000;
+  display: flex;
   font-feature-settings: 'clig' off, 'liga' off;
   font-family: Inconsolata;
   font-size: 16px;
@@ -65,15 +66,16 @@
   letter-spacing: -0.165px;
   width: 90%;
   height: 420px;
-  margin-top: -25px;
   margin-left: 20px;
   flex-shrink: 0;
   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2), -5px -5px 10px rgba(0, 0, 0, 0.2);
+  flex-wrap: wrap;
+  border-radius: 20px;
 }
-.about-Morgenstern {
+.about-M {
   white-space: pre-line;
 }
-.about-Morgenstern {
+.about-M {
   width: 357px;
   height: 89px;
   flex-shrink: 0;

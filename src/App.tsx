@@ -4,7 +4,7 @@ import Header from './components/Header';
 import IceCreamDisplay from './components/IceCreamDisplay';
 import Delivery from './components/Delivery';
 import Footer from './components/Footer';
-import Slider from './components/slider';
+import Slider from './components/Slider';
 
 function App() {
   return (
