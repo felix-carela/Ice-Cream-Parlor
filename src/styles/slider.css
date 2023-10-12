@@ -1,21 +1,32 @@
-.button-section {
+#button-section {
     height: 137px;
     width: 393px;
   }
   
   .slider-button {
-    width: 89px;
-    height: 23px;
     border-radius: 20px;
     border: 1px solid #000;
     background: none;
     display: flex;
     font-weight: bold;
+    font-size: 10px;
     text-align: center;
+    margin-left: 10px;
+    padding: 5px;
     
+  }
+  #button-section__top-btn{
+    width: 89px;
+    height: 23px;
+    margin-bottom: 10px;
   }
   
   #button-section__bottom-btn{
+    width: 380px;
+    height: 23px;
     display: flex;
-    justify-content: flex-end;
+    justify-content: right;
+    margin-right: 10;
+    align-content: space-around;
+    flex-direction: row;
   }
