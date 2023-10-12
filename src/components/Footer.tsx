@@ -12,16 +12,16 @@ function Footer() {
         <div id="footer">
             <img id="Icecream-parlor" src="/images/left.png" alt="Icecream Parlor"></img>
             <div className="footer-content">
-                <h2>MORGENSTERN’S</h2>
-                <h2>FINEST ICE CREAM</h2>
+                <h3>MORGENSTERN’S</h3>
+                <h3>FINEST ICE CREAM</h3>
                 <p>88 West Houston Street,</p>
                 <p>NYC 10012</p>
                 <p>DAILY: 12pm - 12am</p>
             </div>
             <img id="outside-view" src="images/right.png" alt="Outside View"></img>
             <div className="outside-content">
-                <h2>MORGENSTERN’S</h2>
-                <h2>Bananas</h2>
+                <h3>MORGENSTERN’S</h3>
+                <h3>Bananas</h3>
                 <p>2 Rivington Street, NYC</p>
                 <p>10002</p>
                 <p>DAILY: 12pm - 12am</p>
