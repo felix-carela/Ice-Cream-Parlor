@@ -1,0 +1,98 @@
+/* Footer container */
+.footer-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 20px;
+  font-weight: 300;
+}
+
+/* Ice cream and Banana sections */
+.ice-cream-section, .banana-section {
+  flex: 1;
+}
+
+.ice-cream-section img, .banana-section img {
+  width: 170px;
+  height: 123.411px;
+  flex-shrink: 0;
+
+}
+
+/* Ice cream and Banana address */
+.address {
+  font-size: 16px;
+  font-weight: 300;
+  margin-top: 10px;
+  text-align: center;
+}
+
+.press{
+margin-top: 1px;
+margin-left: 1px;
+color: #000;
+font-feature-settings: 'clig' off, 'liga' off;
+font-family: Inconsolata;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+letter-spacing: -0.165px;
+width: 203px;
+height: 18px;
+flex-shrink: 0;
+}
+
+.shipping{
+  color: #000;
+  font-feature-settings: 'clig' off, 'liga' off;
+  font-family: Inconsolata;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: -0.165px;
+  width: 203px;
+  height: 18px;
+  flex-shrink: 0;
+}
+
+.contact{
+  color: #000;
+  font-feature-settings: 'clig' off, 'liga' off;
+  font-family: Inconsolata;
+  font-size: 16px;
+  font-style: normal; 
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: -0.165px;
+  width: 203px;
+  height: 18px;
+  flex-shrink: 0;
+}
+.email-signup{
+  margin-left: 80px;
+}
+.sign{
+  margin-left: 90px;
+  font-size:13px;
+  letter-spacing: -0.165px;
+  margin-top: 3px;
+}
+.email-signup input[type="email"] {
+  width: 180px;  
+  border-radius: 100px;
+  height: 25px;
+  border: 1px solid #000;
+  text-align: center;
+}
+.OK{
+  color: white;
+  width: 39px;
+  height: 25px;
+  flex-shrink: 0;
+  border-radius: 100px;
+  border: 1px solid #000;
+  background: black;
+  margin-left: -40px;
+}

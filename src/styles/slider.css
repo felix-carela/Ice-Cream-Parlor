@@ -1,0 +1,21 @@
+.button-section {
+    height: 137px;
+    width: 393px;
+  }
+  
+  .slider-button {
+    width: 89px;
+    height: 23px;
+    border-radius: 20px;
+    border: 1px solid #000;
+    background: none;
+    display: flex;
+    font-weight: bold;
+    text-align: center;
+    
+  }
+  
+  #button-section__bottom-btn{
+    display: flex;
+    justify-content: flex-end;
+  }
