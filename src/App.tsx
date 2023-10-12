@@ -6,7 +6,6 @@ import IceCreamDisplay from './components/IceCreamDisplay';
 import Footer from './components/Footer';
 import Delivery from './components/Delivery';
 import About from './components/About';
-import Footer from './components/Footer';
 
 
 
