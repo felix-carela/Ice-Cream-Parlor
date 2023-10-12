@@ -6,6 +6,7 @@ import Description from './components/Description';
 import Delivery from './components/Delivery';
 import Footer from './components/Footer';
 import Slider from './components/Slider';
+import Slidebar from './components/Slidebar';
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
       <IceCreamDisplay />
       <Description />
       <Slider />
+      <Slidebar />
       <Delivery />
       <Footer />
     </div>

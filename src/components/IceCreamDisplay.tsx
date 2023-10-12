@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import '../styles/IceCreamDisplay.css';
 
 function IceCreamDisplay() {
-    const iceCreams = ['images/ice-cream-1.png', 'images/ice-cream-2.png', 'images/ice-cream-3.png', 'images/ice-cream-4.png', 'images/ice-cream-5.png']; // Add more paths if you have more images
+    const iceCreams = ['images/ice-cream-1.png', 'images/ice-cream-2.png', 'images/ice-cream-3.png', 'images/ice-cream-4.png', 'images/ice-cream-5.png'];
     const [current, setCurrent] = useState(0);
 
     useEffect(() => {
