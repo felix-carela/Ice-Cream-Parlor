@@ -3,7 +3,6 @@ import './App.css';
 import NavBar from './components/NavBar';
 import Header from './components/Header';
 import IceCreamDisplay from './components/IceCreamDisplay';
-import Footer from './components/Footer';
 import Delivery from './components/Delivery';
 import About from './components/About';
 import Footer from './components/Footer';
