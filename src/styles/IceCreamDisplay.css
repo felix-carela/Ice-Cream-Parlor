@@ -3,13 +3,12 @@
     height: 259px;
     overflow: hidden;
     position: relative;
+    margin-bottom: 20px;
   }
   
   .ice-cream-image {
     width: 100%;
     height: 100%;
-    object-fit: cover;
-    position: absolute;
     transition: transform 1s ease-in-out;
   }
   
