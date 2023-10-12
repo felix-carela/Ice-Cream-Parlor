@@ -28,7 +28,7 @@ function Delivery() {
       <br />
       <div className="about-M">
         <p className="about-Morgenstern">
-            <strong>Morgenstern’s Finest Ice Cream, NYC</strong>
+            <strong>Morgenstern’s Finest Ice Cream, NYC</strong><br />
             Morgenstern’s is a contemporary ice cream parlor serving small batch ice cream. Pick up at our Greenwich Village Flagship or place an order for Nationwide Shipping.
          </p>
       </div>
