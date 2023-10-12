@@ -8,12 +8,15 @@ import Delivery from './components/Delivery';
 import About from './components/About';
 import Footer from './components/Footer';
 
+
+
 function App() {
   return (
     <div className="App">
       <NavBar />
       <Header />
       <IceCreamDisplay />
+      
       <Delivery />
       <About 
           title="Morgenstern’s Finest Ice Cream, NYC"
