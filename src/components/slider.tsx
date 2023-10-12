@@ -15,7 +15,7 @@ function Slider() {
                     <button id="button-section__More" className="slider-button">MORE FLAVORS</button> 
                 </div>
             </div>
-            {/* slider photos div */}
+            {/* slider */}
             
         </div>
 
