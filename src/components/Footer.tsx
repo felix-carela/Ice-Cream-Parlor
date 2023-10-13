@@ -16,7 +16,7 @@ function Footer() {
                 <div className="address">
                     <h3><strong>MORGENSTERN’S</strong></h3>
                     <h3><strong>FINEST ICE CREAM</strong></h3>
-                    <p>88 West Houston Street,</p>
+                    <br /><p className="top-p">88 West Houston Street,</p>
                     <p>NYC 10012</p>
                     <p>DAILY: 12pm - 12am</p>
                 </div>
@@ -25,8 +25,8 @@ function Footer() {
                 <img src="images/right.png" alt="Outside View"></img>
                 <div className="address">
                     <h3><strong>MORGENSTERN’S</strong></h3>
-                    <h3><strong>Bananas</strong></h3>
-                    <p>2 Rivington Street, NYC</p>
+                    <h3><strong>BANANAS</strong></h3>
+                    <br /><p>2 Rivington Street, NYC</p>
                     <p>10002</p>
                     <p>DAILY: 12pm - 12am</p>
                 </div>
