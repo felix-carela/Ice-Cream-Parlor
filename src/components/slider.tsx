@@ -1,5 +1,5 @@
 import React from 'react'
-import '../styles/Slider.css'
+import '../styles/slider.css'
 
 function Slider() {
     return (
